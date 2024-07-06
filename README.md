@@ -39,3 +39,6 @@ git pull origin develop
 git flow feature start bus-use-wallet
 (A)
 git flow feature start edit-readme
+
+# การเตรียม Release
+ถ้า merge feature ทั้งหมดเพื่อที่จะ release ไปที่ Branch develop แล้ว จะทำการสร้างและทำการ QA ที่ Branch release
